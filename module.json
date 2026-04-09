@@ -1,0 +1,17 @@
+{
+  "id": "pixel-perfect-v13",
+  "title": "Pixel Perfect",
+  "version": "1.2.0",
+  "library": "false",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 12
+  },
+  "esmodules": [
+    "scripts/module.js",
+    "scripts/PixelArtFilter.js",
+    "scripts/lib/lib.js"
+  ],
+  "manifest": "https://raw.githubusercontent.com/CodaBool/pixel-perfect-fork/main/module.json",
+  "download": "https://github.com/CodaBool/pixel-perfect-fork/archive/v1.2.0.zip"
+}
